@@ -430,7 +430,8 @@ MyHome,#genre#
 黄暴台,https://live.ottiptv.cc/huya/11342403
 97前的纯港片,https://live.ottiptv.cc/huya/30951533
 成龙动作,https://live.ottiptv.cc/huya/31109333
-豆瓣高分,https://live.ottiptv.cc/huya/14955734
+豆瓣经典,https://live.ottiptv.cc/huya/14955734
+豆瓣经典,https://live.ottiptv.cc/huya/30535002 
 经典武侠,https://live.ottiptv.cc/huya/31254142
 王晶,https://live.ottiptv.cc/huya/11602058
 王晶,https://live.ottiptv.cc/huya/11601968
