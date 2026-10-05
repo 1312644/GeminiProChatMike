@@ -538,11 +538,7 @@ tnews,http://rihou.cc:555/tv/镜新闻
 tnews,http://74.91.26.218:82/live/ctsnews.m3u8
 tnews,http://rihou.cc:555/tv/NTD
 tnews,http://rihou.cc:555/tv/[Hk]民视新聞
-SET iNews,https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-HY,https://tv.iill.top/litv/litv-longturn14
-HY,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-HY,http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
-HY,http://222.128.55.152:9080/live/hy.m3u8
+天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 刘老师,http://live.nctv.top/douyu1.php?id=8317926
 音乐台长,http://live.nctv.top/douyu1.php?id=9629943
 体育,#genre#
